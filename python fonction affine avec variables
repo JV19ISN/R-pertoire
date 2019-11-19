@@ -1,0 +1,19 @@
+def Emmanuel()
+  a=int(input())
+  b=int(input())
+  h=''
+  return a,b,h
+def Toufik()
+for x in range(0,10)
+  w=int(a*x+b)
+        p=str(w)
+        h=h + ' ' +p
+    return h
+def Cyrille():
+    print(h)
+
+a,b,h=Emmanuel()
+
+h=Toufik()
+
+Cyrille()
